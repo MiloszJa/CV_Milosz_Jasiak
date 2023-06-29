@@ -1,2 +1,2 @@
-# CV_Milosz_Jasiak
+# Portfolio_Milosz_Jasiak
 My first projects
